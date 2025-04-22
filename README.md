@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/o1D-vN52-I0AAAAd/wot-world-of-tanks.gif" width="800"/>
+  <img src="https://media1.tenor.com/m/BmpAEOxRi9sAAAAd/wellcome-to-the-club-buddy-gachi.gif" width="800"/>
 </div>
